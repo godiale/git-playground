@@ -3,5 +3,5 @@
 int main()
 {
    printf("Are you ready???");
-   return 0;
+   return 1;
 }
