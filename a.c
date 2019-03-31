@@ -2,6 +2,6 @@
 
 int main()
 {
-   printf("Are you ready???");
+   printf("Are you ready");
    return 1;
 }
