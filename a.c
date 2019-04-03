@@ -3,6 +3,11 @@
 
 int main()
 {
-   printf("Are you ready??");
-   return 0;
+<<<<<<< HEAD
+   printf("Are you ready???");
+   return 11;
+=======
+   printf("Are you ready");
+   return 1;
+>>>>>>> iss53
 }
